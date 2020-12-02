@@ -1,0 +1,26 @@
+{
+   "destination_addresses" : [ "destination" ],
+   "origin_addresses" : [ "origin" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "55,5 km",
+                  "value" : 55520
+               },
+               "duration" : {
+                  "text" : "39 Minuten",
+                  "value" : 2344
+               },
+               "duration_in_traffic" : {
+                  "text" : "40 Minuten",
+                  "value" : 2386
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
