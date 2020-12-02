@@ -1,4 +1,6 @@
 {
+   "get" : 
+{
    "destination_addresses" : [ "destination" ],
    "origin_addresses" : [ "origin" ],
    "rows" : [
@@ -23,4 +25,5 @@
       }
    ],
    "status" : "OK"
+}
 }
